@@ -49,10 +49,6 @@ class Solution {
                 if (x.right!=null) q.add(x.right);
             }
         }
-        if (currentSum > max){
-            max = currentSum;
-            ans = level;
-        }
         return ans;
         
     }
