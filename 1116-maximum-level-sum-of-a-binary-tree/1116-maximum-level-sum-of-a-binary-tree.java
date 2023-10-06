@@ -32,7 +32,7 @@ class Solution {
             TreeNode x = q.remove();
             
             if (x==null){
-                System.out.println(currentSum +" " +max);
+                // System.out.println(currentSum +" " +max);
                 level++;
                 if (currentSum > max){
                     max = currentSum;
