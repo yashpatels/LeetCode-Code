@@ -1,6 +1,14 @@
 class Solution {
 public:
     int maxProfit(vector<int>& prices) {
+
+        //https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/solutions/108870/most-consistent-ways-of-dealing-with-the-series-of-stock-problems/
+
+
+        // T[i][k][0] = max(T[i-1][k][0], T[i-1][k][1] + prices[i])
+        // T[i][k][1] = max(T[i-1][k][1], T[i-1][k-1][0] - prices[i])
+
+
         int buy1=INT_MIN;
         int buy2=INT_MIN;
         int sell1=0;
