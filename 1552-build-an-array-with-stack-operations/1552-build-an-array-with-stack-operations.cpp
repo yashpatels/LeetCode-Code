@@ -2,7 +2,6 @@ class Solution {
 public:
     vector<string> buildArray(vector<int>& target, int n) {
         
-        vector<int> myStack;
         vector<string> ans;
 
         int j=0;
