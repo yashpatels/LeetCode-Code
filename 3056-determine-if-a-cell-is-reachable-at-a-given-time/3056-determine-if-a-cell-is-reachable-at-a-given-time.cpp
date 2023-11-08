@@ -13,8 +13,7 @@ public:
         if (y<0) y=y*-1;
 
         int minDist = min(x,y) + abs(x-y);
-        cout << x << " " << y <<  " " << minDist;
-        if (minDist <=  t && minDist!=0) return true;
+        if (minDist <=  t) return true;
         return false;
     }
 };
