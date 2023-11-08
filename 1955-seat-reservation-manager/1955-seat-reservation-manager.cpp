@@ -1,9 +1,7 @@
 class SeatManager {
 public:
     priority_queue<int, vector<int>, greater<int> > g;
-    int size;
     SeatManager(int n) {
-        size = n;
         for (int i=1; i<=n; i++) g.push(i);
     }
     
