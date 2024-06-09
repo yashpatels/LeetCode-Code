@@ -5,6 +5,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/yashpatels/LeetCode-Code/tree/master/0048-rotate-image) |
 | [0648-replace-words](https://github.com/yashpatels/LeetCode-Code/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/yashpatels/LeetCode-Code/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/yashpatels/LeetCode-Code/tree/master/1044-find-common-characters) |
@@ -31,3 +32,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0648-replace-words](https://github.com/yashpatels/LeetCode-Code/tree/master/0648-replace-words) |
+# Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/yashpatels/LeetCode-Code/tree/master/0048-rotate-image) |
+# Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/yashpatels/LeetCode-Code/tree/master/0048-rotate-image) |
