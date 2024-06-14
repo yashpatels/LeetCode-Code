@@ -40,3 +40,23 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/yashpatels/LeetCode-Code/tree/master/0048-rotate-image) |
+# Tree
+|  |
+| ------- |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/yashpatels/LeetCode-Code/tree/master/0799-minimum-distance-between-bst-nodes) |
+# Depth-First Search
+|  |
+| ------- |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/yashpatels/LeetCode-Code/tree/master/0799-minimum-distance-between-bst-nodes) |
+# Breadth-First Search
+|  |
+| ------- |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/yashpatels/LeetCode-Code/tree/master/0799-minimum-distance-between-bst-nodes) |
+# Binary Search Tree
+|  |
+| ------- |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/yashpatels/LeetCode-Code/tree/master/0799-minimum-distance-between-bst-nodes) |
+# Binary Tree
+|  |
+| ------- |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/yashpatels/LeetCode-Code/tree/master/0799-minimum-distance-between-bst-nodes) |
