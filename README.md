@@ -5,6 +5,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/yashpatels/LeetCode-Code/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/yashpatels/LeetCode-Code/tree/master/0048-rotate-image) |
 | [0648-replace-words](https://github.com/yashpatels/LeetCode-Code/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/yashpatels/LeetCode-Code/tree/master/0876-hand-of-straights) |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Binary Search Tree
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/yashpatels/LeetCode-Code/tree/master/0035-search-insert-position) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/yashpatels/LeetCode-Code/tree/master/0799-minimum-distance-between-bst-nodes) |
 # Binary Tree
 |  |
