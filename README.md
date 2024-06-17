@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # String
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/yashpatels/LeetCode-Code/tree/master/0257-binary-tree-paths) |
 | [0648-replace-words](https://github.com/yashpatels/LeetCode-Code/tree/master/0648-replace-words) |
 | [1044-find-common-characters](https://github.com/yashpatels/LeetCode-Code/tree/master/1044-find-common-characters) |
 # Greedy
@@ -44,10 +45,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Tree
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/yashpatels/LeetCode-Code/tree/master/0257-binary-tree-paths) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/yashpatels/LeetCode-Code/tree/master/0799-minimum-distance-between-bst-nodes) |
 # Depth-First Search
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/yashpatels/LeetCode-Code/tree/master/0257-binary-tree-paths) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/yashpatels/LeetCode-Code/tree/master/0799-minimum-distance-between-bst-nodes) |
 # Breadth-First Search
 |  |
@@ -61,4 +64,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Binary Tree
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/yashpatels/LeetCode-Code/tree/master/0257-binary-tree-paths) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/yashpatels/LeetCode-Code/tree/master/0799-minimum-distance-between-bst-nodes) |
+# Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/yashpatels/LeetCode-Code/tree/master/0257-binary-tree-paths) |
