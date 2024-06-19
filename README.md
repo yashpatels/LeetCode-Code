@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0035-search-insert-position](https://github.com/yashpatels/LeetCode-Code/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/yashpatels/LeetCode-Code/tree/master/0048-rotate-image) |
+| [0274-h-index](https://github.com/yashpatels/LeetCode-Code/tree/master/0274-h-index) |
 | [0648-replace-words](https://github.com/yashpatels/LeetCode-Code/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/yashpatels/LeetCode-Code/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/yashpatels/LeetCode-Code/tree/master/1044-find-common-characters) |
@@ -29,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Sorting
 |  |
 | ------- |
+| [0274-h-index](https://github.com/yashpatels/LeetCode-Code/tree/master/0274-h-index) |
 | [0876-hand-of-straights](https://github.com/yashpatels/LeetCode-Code/tree/master/0876-hand-of-straights) |
 # Trie
 |  |
@@ -70,3 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/yashpatels/LeetCode-Code/tree/master/0257-binary-tree-paths) |
+# Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/yashpatels/LeetCode-Code/tree/master/0274-h-index) |
