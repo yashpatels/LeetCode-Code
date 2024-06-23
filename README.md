@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/yashpatels/LeetCode-Code/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/yashpatels/LeetCode-Code/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/yashpatels/LeetCode-Code/tree/master/0048-rotate-image) |
 | [0274-h-index](https://github.com/yashpatels/LeetCode-Code/tree/master/0274-h-index) |
 | [0648-replace-words](https://github.com/yashpatels/LeetCode-Code/tree/master/0648-replace-words) |
@@ -71,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/yashpatels/LeetCode-Code/tree/master/0039-combination-sum) |
 | [0257-binary-tree-paths](https://github.com/yashpatels/LeetCode-Code/tree/master/0257-binary-tree-paths) |
 # Counting Sort
 |  |
