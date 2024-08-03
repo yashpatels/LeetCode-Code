@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/yashpatels/LeetCode-Code/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/yashpatels/LeetCode-Code/tree/master/0075-sort-colors) |
 | [0260-single-number-iii](https://github.com/yashpatels/LeetCode-Code/tree/master/0260-single-number-iii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yashpatels/LeetCode-Code/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -96,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/yashpatels/LeetCode-Code/tree/master/0049-group-anagrams) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yashpatels/LeetCode-Code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/yashpatels/LeetCode-Code/tree/master/1016-subarray-sums-divisible-by-k) |
 ## Prefix Sum
@@ -105,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/yashpatels/LeetCode-Code/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/yashpatels/LeetCode-Code/tree/master/0075-sort-colors) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yashpatels/LeetCode-Code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1137-height-checker](https://github.com/yashpatels/LeetCode-Code/tree/master/1137-height-checker) |
@@ -140,4 +143,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0260-single-number-iii](https://github.com/yashpatels/LeetCode-Code/tree/master/0260-single-number-iii) |
+## String
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/yashpatels/LeetCode-Code/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
