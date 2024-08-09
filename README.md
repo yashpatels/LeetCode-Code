@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/yashpatels/LeetCode-Code/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/yashpatels/LeetCode-Code/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/yashpatels/LeetCode-Code/tree/master/0075-sort-colors) |
 | [0260-single-number-iii](https://github.com/yashpatels/LeetCode-Code/tree/master/0260-single-number-iii) |
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/yashpatels/LeetCode-Code/tree/master/0035-search-insert-position) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yashpatels/LeetCode-Code/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Greedy
 |  |
