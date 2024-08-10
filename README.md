@@ -98,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/yashpatels/LeetCode-Code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/yashpatels/LeetCode-Code/tree/master/0049-group-anagrams) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yashpatels/LeetCode-Code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/yashpatels/LeetCode-Code/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -152,6 +153,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/yashpatels/LeetCode-Code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/yashpatels/LeetCode-Code/tree/master/0049-group-anagrams) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/yashpatels/LeetCode-Code/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/yashpatels/LeetCode-Code/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
