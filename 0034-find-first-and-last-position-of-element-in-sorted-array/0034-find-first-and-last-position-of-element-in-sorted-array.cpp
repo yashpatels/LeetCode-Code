@@ -1,10 +1,5 @@
 class Solution {
 public:
-    vector<int> searchRange(vector<int>& nums, int target) {
-        
-    }
-};class Solution {
-public:
     vector<int> ans;
     int tart = 0;
     int cnt = 0;
