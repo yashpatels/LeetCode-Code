@@ -101,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/yashpatels/LeetCode-Code/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/yashpatels/LeetCode-Code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/yashpatels/LeetCode-Code/tree/master/0049-group-anagrams) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yashpatels/LeetCode-Code/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -158,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/yashpatels/LeetCode-Code/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/yashpatels/LeetCode-Code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/yashpatels/LeetCode-Code/tree/master/0049-group-anagrams) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/yashpatels/LeetCode-Code/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -166,4 +168,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/yashpatels/LeetCode-Code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/yashpatels/LeetCode-Code/tree/master/0039-combination-sum) |
+## Math
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/yashpatels/LeetCode-Code/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
