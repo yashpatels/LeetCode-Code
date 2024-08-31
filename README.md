@@ -97,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/yashpatels/LeetCode-Code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/yashpatels/LeetCode-Code/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1137-height-checker](https://github.com/yashpatels/LeetCode-Code/tree/master/1137-height-checker) |
+| [1325-path-with-maximum-probability](https://github.com/yashpatels/LeetCode-Code/tree/master/1325-path-with-maximum-probability) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/yashpatels/LeetCode-Code/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Hash Table
 |  |
@@ -172,4 +173,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/yashpatels/LeetCode-Code/tree/master/0012-integer-to-roman) |
+## Graph
+|  |
+| ------- |
+| [1325-path-with-maximum-probability](https://github.com/yashpatels/LeetCode-Code/tree/master/1325-path-with-maximum-probability) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1325-path-with-maximum-probability](https://github.com/yashpatels/LeetCode-Code/tree/master/1325-path-with-maximum-probability) |
+## Shortest Path
+|  |
+| ------- |
+| [1325-path-with-maximum-probability](https://github.com/yashpatels/LeetCode-Code/tree/master/1325-path-with-maximum-probability) |
 <!---LeetCode Topics End-->
