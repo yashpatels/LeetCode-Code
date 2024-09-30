@@ -167,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/yashpatels/LeetCode-Code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/yashpatels/LeetCode-Code/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/yashpatels/LeetCode-Code/tree/master/0179-largest-number) |
+| [0214-shortest-palindrome](https://github.com/yashpatels/LeetCode-Code/tree/master/0214-shortest-palindrome) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/yashpatels/LeetCode-Code/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Backtracking
 |  |
@@ -189,4 +190,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/yashpatels/LeetCode-Code/tree/master/1325-path-with-maximum-probability) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/yashpatels/LeetCode-Code/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/yashpatels/LeetCode-Code/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/yashpatels/LeetCode-Code/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
