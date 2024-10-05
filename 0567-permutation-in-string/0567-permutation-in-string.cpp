@@ -15,7 +15,7 @@ public:
                 //add to map;
                 m1[s2[right]]++;
 
-                while (right - left + 1 > s1.size()) {
+               while (right - left + 1 > s1.size()) {
                     if (m1[s2[left]] == 1) {
                         m1.erase(s2[left]);
                     } else {
@@ -31,9 +31,6 @@ public:
                 left=right+1;
                 m1.clear();
             }
-       }
-       for (auto x: m1) {
-        cout << x.first << " " << x.second << endl;
        }
        if (m1==m) return true;
        return false;
