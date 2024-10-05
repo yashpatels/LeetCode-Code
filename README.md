@@ -110,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/yashpatels/LeetCode-Code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/yashpatels/LeetCode-Code/tree/master/0049-group-anagrams) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yashpatels/LeetCode-Code/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0567-permutation-in-string](https://github.com/yashpatels/LeetCode-Code/tree/master/0567-permutation-in-string) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/yashpatels/LeetCode-Code/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1256-rank-transform-of-an-array](https://github.com/yashpatels/LeetCode-Code/tree/master/1256-rank-transform-of-an-array) |
 | [1694-make-sum-divisible-by-p](https://github.com/yashpatels/LeetCode-Code/tree/master/1694-make-sum-divisible-by-p) |
@@ -143,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/yashpatels/LeetCode-Code/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/yashpatels/LeetCode-Code/tree/master/0075-sort-colors) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yashpatels/LeetCode-Code/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0567-permutation-in-string](https://github.com/yashpatels/LeetCode-Code/tree/master/0567-permutation-in-string) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/yashpatels/LeetCode-Code/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Binary Search
 |  |
@@ -178,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/yashpatels/LeetCode-Code/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/yashpatels/LeetCode-Code/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/yashpatels/LeetCode-Code/tree/master/0214-shortest-palindrome) |
+| [0567-permutation-in-string](https://github.com/yashpatels/LeetCode-Code/tree/master/0567-permutation-in-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/yashpatels/LeetCode-Code/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Backtracking
 |  |
@@ -212,4 +215,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/yashpatels/LeetCode-Code/tree/master/0214-shortest-palindrome) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/yashpatels/LeetCode-Code/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
