@@ -14,7 +14,7 @@ public:
 
             ans+=temp;
 
-            int toPush = ceil(double((double)temp/3));
+            int toPush = ceil(((double)temp/3));
             // cout << double((double)temp/3) << endl;
             pq.push(toPush);
 
