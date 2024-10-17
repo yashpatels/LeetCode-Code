@@ -168,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/yashpatels/LeetCode-Code/tree/master/0179-largest-number) |
+| [0670-maximum-swap](https://github.com/yashpatels/LeetCode-Code/tree/master/0670-maximum-swap) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/yashpatels/LeetCode-Code/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/yashpatels/LeetCode-Code/tree/master/1304-longest-happy-string) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/yashpatels/LeetCode-Code/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -215,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/yashpatels/LeetCode-Code/tree/master/0012-integer-to-roman) |
+| [0670-maximum-swap](https://github.com/yashpatels/LeetCode-Code/tree/master/0670-maximum-swap) |
 ## Graph
 |  |
 | ------- |
