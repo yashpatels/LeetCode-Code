@@ -122,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1694-make-sum-divisible-by-p](https://github.com/yashpatels/LeetCode-Code/tree/master/1694-make-sum-divisible-by-p) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/yashpatels/LeetCode-Code/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/yashpatels/LeetCode-Code/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/yashpatels/LeetCode-Code/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/yashpatels/LeetCode-Code/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Prefix Sum
 |  |
@@ -282,12 +283,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/yashpatels/LeetCode-Code/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/yashpatels/LeetCode-Code/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/yashpatels/LeetCode-Code/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/yashpatels/LeetCode-Code/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Binary Tree
 |  |
 | ------- |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/yashpatels/LeetCode-Code/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/yashpatels/LeetCode-Code/tree/master/2677-cousins-in-binary-tree-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [2677-cousins-in-binary-tree-ii](https://github.com/yashpatels/LeetCode-Code/tree/master/2677-cousins-in-binary-tree-ii) |
 <!---LeetCode Topics End-->
