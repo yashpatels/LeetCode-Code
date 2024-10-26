@@ -154,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/yashpatels/LeetCode-Code/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yashpatels/LeetCode-Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/yashpatels/LeetCode-Code/tree/master/0075-sort-colors) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yashpatels/LeetCode-Code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/yashpatels/LeetCode-Code/tree/master/0567-permutation-in-string) |
@@ -203,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0012-integer-to-roman](https://github.com/yashpatels/LeetCode-Code/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/yashpatels/LeetCode-Code/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yashpatels/LeetCode-Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/yashpatels/LeetCode-Code/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/yashpatels/LeetCode-Code/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/yashpatels/LeetCode-Code/tree/master/0214-shortest-palindrome) |
@@ -251,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yashpatels/LeetCode-Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/yashpatels/LeetCode-Code/tree/master/0214-shortest-palindrome) |
 ## Hash Function
 |  |
