@@ -39,8 +39,6 @@ public:
             if(i<nums.size()) {
                 prevMax=currentMax;
                 prevMin=currentMin;
-            }
-            if (i<nums.size()) {
                 currentMax = nums[i];
                 currentMin = nums[i];
                 currentBits = getBits(nums[i]);
