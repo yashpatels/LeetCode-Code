@@ -113,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/yashpatels/LeetCode-Code/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/yashpatels/LeetCode-Code/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/yashpatels/LeetCode-Code/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2716-prime-subtraction-operation](https://github.com/yashpatels/LeetCode-Code/tree/master/2716-prime-subtraction-operation) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/yashpatels/LeetCode-Code/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3291-find-if-array-can-be-sorted](https://github.com/yashpatels/LeetCode-Code/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/yashpatels/LeetCode-Code/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -180,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/yashpatels/LeetCode-Code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/yashpatels/LeetCode-Code/tree/master/0035-search-insert-position) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yashpatels/LeetCode-Code/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2716-prime-subtraction-operation](https://github.com/yashpatels/LeetCode-Code/tree/master/2716-prime-subtraction-operation) |
 ## Greedy
 |  |
 | ------- |
@@ -191,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/yashpatels/LeetCode-Code/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/yashpatels/LeetCode-Code/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/yashpatels/LeetCode-Code/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2716-prime-subtraction-operation](https://github.com/yashpatels/LeetCode-Code/tree/master/2716-prime-subtraction-operation) |
 | [3195-separate-black-and-white-balls](https://github.com/yashpatels/LeetCode-Code/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/yashpatels/LeetCode-Code/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Linked List
@@ -251,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0012-integer-to-roman](https://github.com/yashpatels/LeetCode-Code/tree/master/0012-integer-to-roman) |
 | [0670-maximum-swap](https://github.com/yashpatels/LeetCode-Code/tree/master/0670-maximum-swap) |
+| [2716-prime-subtraction-operation](https://github.com/yashpatels/LeetCode-Code/tree/master/2716-prime-subtraction-operation) |
 ## Graph
 |  |
 | ------- |
@@ -344,4 +348,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/yashpatels/LeetCode-Code/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/yashpatels/LeetCode-Code/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+## Number Theory
+|  |
+| ------- |
+| [2716-prime-subtraction-operation](https://github.com/yashpatels/LeetCode-Code/tree/master/2716-prime-subtraction-operation) |
 <!---LeetCode Topics End-->
