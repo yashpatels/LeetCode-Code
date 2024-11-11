@@ -17,9 +17,7 @@ public:
             if (cnt==2) primes.push_back(i);
         }
 
-        for (int x: primes) {
-            cout << x << " ";
-        }
+        
 
         for (int i=nums.size()-2; i>=0; i--) {
             
