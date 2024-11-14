@@ -24,16 +24,13 @@ public:
             int middle = start+(end-start)/2;
             int current = canDistribute(middle, quantities);
 
-            if (current < n) {
+            if (current <= n) {
                 ans=min(middle, ans);
                 end=middle-1;
-            } else if (current > n) {
+            } else{
                 // ans=min(middle, ans);
                 start=middle+1;
-            } else {
-                ans=min(middle, ans);
-                end=middle-1;
-            }
+            } 
         }
         return ans;
     }
