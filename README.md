@@ -266,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/yashpatels/LeetCode-Code/tree/master/1325-path-with-maximum-probability) |
+| [3189-find-champion-ii](https://github.com/yashpatels/LeetCode-Code/tree/master/3189-find-champion-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
